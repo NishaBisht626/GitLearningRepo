@@ -5,6 +5,7 @@ public class for_loop {
         {
             System.out.println(i);
         }
+        System.out.println("Done with for loop1");
     }
     
     
